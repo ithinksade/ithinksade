@@ -12,7 +12,8 @@
 
 ---
 
-### GitHub Stats
+### Stats
+[![wakatime](https://wakatime.com/badge/user/5add4576-3bca-45b2-8a1f-4ce09b7f9e08.svg)](https://wakatime.com/@5add4576-3bca-45b2-8a1f-4ce09b7f9e08)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=quedas&theme=radical" height="200"/>
