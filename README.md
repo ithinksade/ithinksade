@@ -14,11 +14,12 @@
 
 ### Github Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=quedas&theme=radical" height="200"/>
+![Stats](https://github-readme-stats.vercel.app/api?username=quedas&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&icon_color=58A6FF&rank_icon=github&title_color=58A6FF)
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quedas&layout=compact&theme=radical" height="200"/>
-</p>
+
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quedas&layout=compact&theme=highcontrast&hide_border=false)  
+
 
 [![wakatime](https://wakatime.com/badge/user/5add4576-3bca-45b2-8a1f-4ce09b7f9e08.svg)](https://wakatime.com/@5add4576-3bca-45b2-8a1f-4ce09b7f9e08)
