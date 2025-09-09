@@ -17,9 +17,6 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=quedas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&icon_color=00BFFF&title_color=1E90FF&text_color=FFFFFF)
 
 
-
-
-
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quedas&layout=compact&theme=highcontrast&hide_border=false)  
 
 
