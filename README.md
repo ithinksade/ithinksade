@@ -14,7 +14,8 @@
 
 ### Github Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=quedas&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&icon_color=58A6FF&rank_icon=github&title_color=58A6FF)
+![Stats](https://github-readme-stats.vercel.app/api?username=quedas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&icon_color=00BFFF&title_color=1E90FF&text_color=FFFFFF)
+
 
 
 
