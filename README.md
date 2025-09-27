@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F723&center=true&vCenter=true&width=650&lines=Hello+%F0%9F%91%8B;I+AM+QUEDAS!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F723&center=true&vCenter=true&width=650&lines=Hello+%F0%9F%91%8B;I+AM+SADE!)](https://git.io/typing-svg)
 
 ### Languages & Tools
 
