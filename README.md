@@ -14,10 +14,10 @@
 
 ### Github Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=quedas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&icon_color=00BFFF&title_color=1E90FF&text_color=FFFFFF)
+![Stats](https://github-readme-stats.vercel.app/api?username=ithinksade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&icon_color=00BFFF&title_color=1E90FF&text_color=FFFFFF)
 
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quedas&layout=compact&theme=highcontrast&hide_border=false)  
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ithinksade&layout=compact&theme=highcontrast&hide_border=false)  
 
 
 [![wakatime](https://wakatime.com/badge/user/5add4576-3bca-45b2-8a1f-4ce09b7f9e08.svg)](https://wakatime.com/@5add4576-3bca-45b2-8a1f-4ce09b7f9e08)
